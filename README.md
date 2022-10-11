@@ -1,1 +1,1 @@
-TextBox
+# 완전 탐색 (Brute-Force)
